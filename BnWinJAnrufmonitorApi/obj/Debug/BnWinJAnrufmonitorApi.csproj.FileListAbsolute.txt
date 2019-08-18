@@ -1,0 +1,12 @@
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\obj\Debug\BnWinJAnrufmonitorApi.csproj.CoreCompileInputs.cache
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\obj\Debug\BnWinJAnrufmonitorApi.Properties.Resources.resources
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\obj\Debug\BnWinJAnrufmonitorApi.csproj.GenerateResource.cache
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\bin\Debug\BnWinJAnrufmonitorApi.exe.config
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\bin\Debug\BnWinJAnrufmonitorApi.exe
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\bin\Debug\BnWinJAnrufmonitorApi.pdb
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\bin\Debug\Newtonsoft.Json.dll
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\bin\Debug\Newtonsoft.Json.xml
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\obj\Debug\BnWinJAnrufmonitorApi.csproj.CopyComplete
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\obj\Debug\BnWinJAnrufmonitorApi.exe
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\obj\Debug\BnWinJAnrufmonitorApi.pdb
+C:\Development\BnWinJAnrufmonitorApi\BnWinJAnrufmonitorApi\obj\Debug\BnWinJAnrufmonitorApi.csprojAssemblyReference.cache
